@@ -1,4 +1,4 @@
-owner: your-github-username
+owner: worm-portal
 repo: worm-status
 
 sites:
@@ -19,7 +19,8 @@ status-website:
   introMessage: Real-time status monitoring for the Water-Organic-Rock-Microbe Portal
   
 assignees:
-  - your-github-username
+  - gmboyer
+  - worm-portal
 
 user-agent: worm-portal-monitor
 
