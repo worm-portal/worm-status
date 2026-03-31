@@ -1,7 +1,7 @@
 url: https://worm-portal.asu.edu/jupyter
-status: up
-code: 200
-responseTime: 26
-lastUpdated: 2026-03-30T23:40:51.613Z
+status: down
+code: 502
+responseTime: 81
+lastUpdated: 2026-03-31T12:00:31.547Z
 startTime: 2026-02-16T20:25:52.192Z
 generator: Upptime <https://github.com/upptime/upptime>
